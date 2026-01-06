@@ -1,1 +1,1 @@
-# My Dual Repo Project
+# My Dual Repo Project in AI Coding
